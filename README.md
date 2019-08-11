@@ -9,10 +9,11 @@ COZMOは顔部分にQVGA解像度のカメラが搭載されており、この�
 COZMOはpythonからリモート制御するためのSDK(https://anki.com/ja-jp/cozmo/SDK.html)が公開されており、COZMO SDKとchainer,OpenCVを組み合わせてCOZMOのカメラ画像を取り込み、畳込みニューラルネットー枠で前進、左転回、右転回の動作を判断しながら走行します。
 特定の条件で一時停止することを学習させることもできる様にしました。
 
-走行の様子はyoutubeで公開しています。
+走行の様子はyoutubeで公開しています。  
 https://youtu.be/27JVWMNAD2o  
 https://youtu.be/BFyrgkgBzEM  
 https://youtu.be/RztJSE1sJ7A  
+https://youtu.be/jZOyaPV2opg  
 
 自律走行に使用したスクリプト(python)の内容は下記のブログのエントリーで説明しています。
 (掲載されているスクリプトは少し古いものです)
